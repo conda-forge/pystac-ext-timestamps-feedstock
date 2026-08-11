@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.1.0"
+  version: "1.1.1"
 
 package:
   name: pystac-ext-timestamps
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-timestamps/pystac_ext_timestamps-${{ version }}.tar.gz
-  sha256: d78250e3ddc61b825348444ad05c8cff8c2aa1cd3d18155b880783ee880520d3
+  sha256: 6c57bbaec88ddef129f479452ca7863c3d16dba12ecd7b700a7f9fb3eb6e5673
 
 build:
   number: 0
